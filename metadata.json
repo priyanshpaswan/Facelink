@@ -1,0 +1,6 @@
+{
+  "name": "FaceLink",
+  "description": "Meet. Find. Connect. A consent-first mobile discovery platform helping people reconnect with individuals they met in real life.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
